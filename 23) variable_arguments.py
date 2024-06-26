@@ -8,3 +8,7 @@ def summ(*nums):
     print(sum(nums))
 
 summ(1)
+# or 
+summ(1,2)
+# or 
+summ(1,2,3)
