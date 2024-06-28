@@ -103,20 +103,6 @@ s2.replace("to","in",3)
 #replaces the word for three times
 
 
-# Split and Join
-# Split will return lists
-# Default split criteria is space
-
-s2.split('welcome')
-# ['', ' to to to to Deloitte']
-
-s2.split("to")
-# # Split and Join
-# Split will return lists
-# Default split criteria is space
-
-s2.split('welcome')
-
 
 
 
