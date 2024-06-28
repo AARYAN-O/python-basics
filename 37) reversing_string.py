@@ -1,4 +1,4 @@
-Note : We cannot use reversed or reverse here 
+# Note : We cannot use reversed or reverse here 
 
 # reversing the string
 s1[::-1]
