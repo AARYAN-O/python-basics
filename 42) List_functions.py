@@ -137,6 +137,7 @@ print(l6)
 # only gets deleted and nothing else happens
 
 
+# Count:
 
 
 
