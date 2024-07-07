@@ -1,3 +1,5 @@
+# Strings are read only
+
 s1='Welcome to'
 
 s1[0:len(s1):]
@@ -102,7 +104,17 @@ s2="welcome to to to to Deloitte"
 s2.replace("to","in",3)
 #replaces the word for three times
 
+# Join 
 
+# What is the input that the join keyword takes? ==> It takes input as an iterable object.
+# It is used to join the every element of the iterable object
+' '.join(n)
+
+type(' '.join(n))
+# join keyword returns string where as split keyword returns list
+
+# strings are immutable
+s3[2]='b'
 
 
 
